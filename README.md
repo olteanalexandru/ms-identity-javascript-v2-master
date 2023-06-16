@@ -4,7 +4,6 @@ languages:
 - javascript
 - html
 products:
-- ms-graph
 - azure-active-directory
 - microsoft-identity-platform
 urlFragment: "ms-identity-javascript-v2"
